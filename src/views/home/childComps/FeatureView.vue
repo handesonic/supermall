@@ -13,5 +13,7 @@ export default {
 </script>
 
 <style>
-
+  .feature img{
+    width: 100%
+  }
 </style>
